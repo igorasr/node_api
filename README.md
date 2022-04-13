@@ -18,4 +18,7 @@ Api em NodeJS, com MySql
 
 Subirão os serviços de API e Banco de Dados
 
+## :wrench: Proximos Passos
 
+* CRUD Completo
+* Implementação de TDDs
