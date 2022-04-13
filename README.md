@@ -7,8 +7,8 @@ Api em NodeJS, com MySql
 
 ## Como rodar o projeto
 
-```js npm install```
-```js npm start```
+``` npm install```
+``` npm start```
 
 ## Como subir o Container
 
